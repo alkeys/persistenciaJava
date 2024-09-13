@@ -1,7 +1,9 @@
+com/mycompany/testbases/modelo/Controladora.class
 com/mycompany/testbases/modelo/Cliente_.class
 com/mycompany/testbases/Testbases.class
 com/mycompany/testbases/persistencia/exceptions/NonexistentEntityException.class
 com/mycompany/testbases/persistencia/ClienteJpaController.class
+com/mycompany/testbases/persistencia/Controladorapersistencia.class
 com/mycompany/testbases/persistencia/exceptions/IllegalOrphanException.class
 com/mycompany/testbases/modelo/Cliente.class
 com/mycompany/testbases/persistencia/exceptions/PreexistingEntityException.class
