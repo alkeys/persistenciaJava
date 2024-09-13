@@ -1,0 +1,6 @@
+/home/alex/NetBeansProjects/testbases/src/main/java/com/mycompany/testbases/Testbases.java
+/home/alex/NetBeansProjects/testbases/src/main/java/com/mycompany/testbases/persistencia/exceptions/PreexistingEntityException.java
+/home/alex/NetBeansProjects/testbases/src/main/java/com/mycompany/testbases/persistencia/ClienteJpaController.java
+/home/alex/NetBeansProjects/testbases/src/main/java/com/mycompany/testbases/persistencia/exceptions/IllegalOrphanException.java
+/home/alex/NetBeansProjects/testbases/src/main/java/com/mycompany/testbases/persistencia/exceptions/NonexistentEntityException.java
+/home/alex/NetBeansProjects/testbases/src/main/java/com/mycompany/testbases/modelo/Cliente.java
